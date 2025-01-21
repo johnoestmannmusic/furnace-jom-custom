@@ -1,4 +1,6 @@
-# Furnace (chiptune tracker)
+# NOTE: This is a forked version of Furnace for my own experiments in customizing functionality. I recommend you check out the original Furnace at https://github.com/tildearrow/furnace if you haven't already#
+
+## Furnace (chiptune tracker)
 
 ![screenshot](papers/screenshot3.png)
 
